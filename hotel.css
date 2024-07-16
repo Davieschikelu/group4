@@ -9,3 +9,10 @@
     padding: 10px 20px;
    border-bottom: 1px solid rgb(14, 119, 161); 
 }
+.book .logo img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    cursor: pointer;
+}
