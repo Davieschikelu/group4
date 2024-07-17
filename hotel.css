@@ -53,6 +53,7 @@ object-fit: cover;
 }
 .tom p {
     color: gold;
+    margin-left: 600px;
 }
 .find{
     background-color: gold;
@@ -86,4 +87,178 @@ object-fit: cover;
     margin-left:40px ;
     margin-top: 30px;
     color: black;
+}
+.men{
+    border-bottom: 2px solid gold;
+    margin-top: 50px;
+}
+.men2{
+    border-bottom: 2px solid rgb(4, 4, 4);
+    margin-top: 30px;
+}
+.men3{
+    border-bottom: 2px solid gold;
+    margin-top: 35px;
+}
+.wook{
+    margin-top: 40px;
+}
+.wook p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gold;
+    font-size: 28px;
+}
+.mruno{
+    display: flex;
+    background-color: rgb(254, 252, 252);
+}
+
+.tomy{
+    background-image: url(sea\ view.jpeg);
+    height: 160px;
+    width: 300px;
+    margin-left:  100px;
+    margin-top: 50px;
+    padding: 30px 20px;
+    border-radius: 16px;
+    background-position: center;
+    object-fit: cover;
+    
+    justify-content: baseline;
+    align-items: center;
+    text-align: center;
+
+}
+.tomy h3{
+    font-size: 20px;
+    color: gold;
+    margin-top: 210px;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+.tomy button{
+    border: transparent;
+    padding: 15px 30px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 0px;
+    background-color: transparent;
+    color: gold;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.tomy button:hover{
+    border: gold;
+    color: rgb(250, 246, 246);
+    background-color: transparent;
+    transition: 0.3s; 
+}
+.tomy p{
+    
+    
+color: rgb(4, 4, 4);
+font-size: 10px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bomy{
+    background-image: url(spa.webp);
+    height: 160px;
+    width: 300px;
+    margin-left:  15px;
+    margin-top: 50px;
+    padding: 30px 20px;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    
+    background-position: center;
+    object-fit: cover;
+    
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.bomy h3{
+    font-size: 20px;
+    color: rgb(7, 7, 7);
+    margin-top: 210px;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bomy button{
+    border: transparent;
+    padding: 15px 30px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 0px;
+    background-color: transparent;
+    color: gold;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.bomy button:hover{
+    border: gold;
+    color: rgb(250, 246, 246);
+    background-color: transparent;
+    transition: 0.3s; 
+}
+p{
+    
+    display: flex;
+color: rgb(10, 10, 10);
+font-size: 10px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.somy{
+    background-image: url(pools.jpeg);
+    height: 160px;
+    width: 300px;
+    margin-left:  15px;
+    margin-right: 100px;
+    margin-top: 50px;
+    padding: 30px 20px;
+    background-repeat: no-repeat;
+    
+    object-fit: cover;
+    background-position: center;
+    border-radius: 16px;
+    
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.somy h3{
+    font-size: 20px;
+    color: gold;
+    margin-top: 210px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.somy button{
+    border: transparent;
+    padding: 15px 30px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 0px;
+    background-color: transparent;
+    color: gold;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.somy button:hover{
+    border: gold;
+    color: rgb(250, 246, 246);
+    background-color: transparent;
+    transition: 0.3s; 
+}
+p{
+    
+    display: flex;
+color: rgb(8, 8, 8);
+font-size: 10px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
