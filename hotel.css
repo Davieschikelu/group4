@@ -16,3 +16,14 @@
     object-fit: cover;
     cursor: pointer;
 }
+.top{
+display: flex;
+}
+.tap {
+background: url(hotelsss.jpeg);
+width: 500px;
+height: 400px;
+margin-left: 0;
+margin-right: 50px;
+margin-bottom: 40px;
+}
