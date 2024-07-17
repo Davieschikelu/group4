@@ -92,6 +92,42 @@ a {
   color: black;
 }
 
+.grid-display {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 70px 0;
+  background-color: white;
+}
+
+.grid-display .columns {
+  width: 40%;
+}
+
+.grid-display .columns .column-body {
+  padding: 20px;
+}
+
+.grid-display .columns .column-img {
+  width: 100%;
+}
+
+.grid-display .columns .column-body .column-header {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.grid-display .columns .column-body .col-paragraph {
+  font-size: 15px;
+  margin: 10px 0;
+}
+.grid-display .columns .column-body .column-footer {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  font-size: 15px;
+}
+
 .footer p {
   /* background-color: #000000; */
   text-decoration: #080808;
