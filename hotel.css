@@ -25,10 +25,10 @@
     display: flex;
     font-size: 11px;
     text-transform: uppercase;
-    color: rgb(249, 221, 10);
+    color: brown;
 }
 .items li:hover{
-    color:rgb(236, 245, 112);
+    color:rgb(176, 105, 105);
     cursor: pointer; 
 }
 .top{
@@ -49,14 +49,14 @@ object-fit: cover;
 }
 .tom h3 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: gold;
+    color: brown;
 }
 .tom p {
-    color: gold;
+    color:brown;
     margin-left: 600px;
 }
 .find{
-    background-color: gold;
+    background-color: rgb(155, 123, 123);
     display: flex;
     border-radius: 10px;
     padding: 10px;
@@ -66,7 +66,7 @@ object-fit: cover;
 }
 .nom{
     padding-top: 30px;
-    background-color: rgb(228, 242, 28);
+    background-color: rgb(142, 108, 108);
     border-radius: 20px;
     width: 300px;
     height: 160px;
@@ -89,7 +89,7 @@ object-fit: cover;
     color: black;
 }
 .men{
-    border-bottom: 2px solid gold;
+    border-bottom: 2px solid rgb(155, 123, 123);
     margin-top: 50px;
 }
 .men2{
@@ -97,7 +97,7 @@ object-fit: cover;
     margin-top: 30px;
 }
 .men3{
-    border-bottom: 2px solid gold;
+    border-bottom: 2px solid rgb(155, 123, 123);
     margin-top: 35px;
 }
 .wook{
@@ -105,7 +105,7 @@ object-fit: cover;
 }
 .wook p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: gold;
+    color: rgb(155, 123, 123);
     font-size: 28px;
 }
 .mruno{
@@ -131,7 +131,7 @@ object-fit: cover;
 }
 .tomy h3{
     font-size: 20px;
-    color: gold;
+    color:rgb(155, 123, 123);
     margin-top: 210px;
     
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -233,7 +233,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .somy h3{
     font-size: 20px;
-    color: gold;
+    color: rgb(155, 123, 123);
     margin-top: 210px;
 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
