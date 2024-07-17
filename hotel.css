@@ -16,14 +16,41 @@
     object-fit: cover;
     cursor: pointer;
 }
+.items ul{
+    display: flex;
+}
+.items li{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 15px 30px;
+    display: flex;
+    font-size: 11px;
+    text-transform: uppercase;
+    color: rgb(249, 221, 10);
+}
+.items li:hover{
+    color: rgb(236, 245, 112);
+    cursor: pointer;
+}
 .top{
-display: flex;
+list-style: none;
 }
 .tap {
 background: url(hotelsss.jpeg);
-width: 500px;
+width: 1500px;
 height: 400px;
 margin-left: 0;
 margin-right: 50px;
 margin-bottom: 40px;
+object-fit: cover;
+}
+.tom{
+    text-align: center;
+    
+}
+.tom h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: gold;
+}
+.tom p {
+    color: gold;
 }
